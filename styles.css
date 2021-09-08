@@ -1,7 +1,3 @@
-div {
-    border-style: dotted;
-    margin: 5px;
-}
-#third > p {
-    font-size: 3em;
-}
+nav {
+    display: block;
+  }
