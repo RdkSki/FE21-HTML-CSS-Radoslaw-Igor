@@ -1,6 +1,6 @@
 nav {
-  background-color: cornsilk;
-  color: blueviolet;
+  background-color: blue;
+  color:burlywood;
   font-family: cursive;
   font-size: 3em;
 }
@@ -8,5 +8,8 @@ nav {
   display: inline;
 }
 .content {
-  display: inline;
+  display: inline; 
+}
+a {
+  color: azure;
 }
