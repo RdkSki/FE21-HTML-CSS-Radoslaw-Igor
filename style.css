@@ -4,3 +4,9 @@ nav {
   font-family: cursive;
   font-size: 3em;
 }
+.nav{
+  display: inline;
+}
+.content {
+  display: inline;
+}
