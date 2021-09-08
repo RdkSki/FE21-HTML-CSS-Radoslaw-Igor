@@ -2,18 +2,6 @@ div {
     border-style: dotted;
     margin: 5px;
 }
-h1  {
-    display: none;
-}
 #third > p {
-visibility: hidden;
-}
-#second{
-    visibility: hidden;
-}
-.left{
-    visibility: hidden;
-}
-img {
-    visibility: visible;
+    font-size: 3em;
 }
